@@ -10,6 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+an AND Gate is connected to two switches which output to an LED
 
 ## How to test
 
